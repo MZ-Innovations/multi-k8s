@@ -11,3 +11,4 @@ before_install:
   - gcloud config set project multi-k8s-294521
   - gcloud config set compute/zone us-central1-c
   - gcloud container clusters get-credentials  multi-cluster2
+
